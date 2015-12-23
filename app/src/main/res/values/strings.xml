@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ViewPagerSample</string>
+    <string name="activity_main">Main</string>
+    <string name="setting_fragment">Setting</string>
+</resources>
